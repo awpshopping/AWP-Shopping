@@ -1,0 +1,745 @@
+[
+  {
+    "id": "prod_1763757296575_mq529fx0v",
+    "title": "Blue Orange Frock",
+    "description": "A vibrant fusion of blue and orange with playful detailing — perfect for casual outings and festive celebrations. Crafted from soft, breathable fabric for day-long comfort.",
+    "price": 499,
+    "rating": 4.3,
+    "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
+    "colours": ["Orange", "Blue", "Red", "Yellow"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1763757296/AWP-products/dr87oipon6mwaojentpu.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1763757296/AWP-products/cakfxseitjphwam0rchb.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1763757296/AWP-products/tp9wtq6xqmfgayfefnmf.jpg"
+    ],
+    "createdAt": "2025-11-21T20:34:56.575Z",
+    "updatedAt": "2025-11-21T22:03:56.865Z",
+    "type": "frock",
+    "reviewCount": 79,
+    "originalPrice": 649
+  },
+  {
+    "id": "prod_1763757391450_pqbovsttc",
+    "title": "Pink Frock",
+    "description": "A charming pink frock with a delightfully feminine design. Lightweight, stylish, and versatile — perfect for birthday parties, casual wear, and celebrations.",
+    "price": 499,
+    "rating": 4.8,
+    "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
+    "colours": ["Pink", "Orange", "Red", "Blue", "Yellow", "Green"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1763757390/AWP-products/fwsj914krn2apxujprcd.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1763757390/AWP-products/enso3oralpntoqo7ztki.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1763757390/AWP-products/wmx4fcv1wg2gkxsomqb5.jpg"
+    ],
+    "createdAt": "2025-11-21T20:36:31.450Z",
+    "updatedAt": "2025-11-21T22:11:55.662Z",
+    "type": "frock",
+    "reviewCount": 147,
+    "originalPrice": 679
+  },
+  {
+    "id": "prod_1763757767331_aojrl8z0l",
+    "title": "Yellow Green Frock",
+    "description": "A stunning blend of yellow and green tones that brings out joyful energy. Designed with care for comfort and smart everyday fashion.",
+    "price": 499,
+    "rating": 4.7,
+    "sizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
+    "colours": ["Yellow", "Green", "Red", "Orange", "Pink", "Blue"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1763757766/AWP-products/fuaqapj9ouyapxot95yy.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1763757766/AWP-products/ch0zzjqrc8ugh87vr2pv.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1763757766/AWP-products/rl32hm962bfoy3buftwo.jpg"
+    ],
+    "createdAt": "2025-11-21T20:42:47.331Z",
+    "updatedAt": "2025-11-21T22:12:41.853Z",
+    "type": "frock",
+    "reviewCount": 147,
+    "originalPrice": 669
+  },
+  {
+    "id": "prod_1764151874889_ybvud5ie9",
+    "title": "Deep Purple Shade Lehenga",
+    "description": "A luxury lehenga in a rich deep purple shade, designed for festive elegance. Features premium embroidery and a graceful flare for a royal look.",
+    "price": 899,
+    "rating": 5,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Deep Purple Shade"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764151873/AWP%20Shopping-products/aaodkrktnwxma96aq2oh.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764151873/AWP%20Shopping-products/wglwetfygnxuzlxesg5k.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764151873/AWP%20Shopping-products/jejhoxmmjrlnbwgwrehe.jpg"
+    ],
+    "createdAt": "2025-11-26T10:11:14.889Z",
+    "updatedAt": "2025-11-26T10:11:14.889Z",
+    "type": "lehenga",
+    "reviewCount": 30,
+    "originalPrice": 1139
+  },
+  {
+    "id": "prod_1764152027497_4xg5od56z",
+    "title": "Pink Lehenga",
+    "description": "A stunning pink lehenga crafted with delicate detailing and a flattering fall. Ideal for weddings, traditional functions, and festive fashion moments.",
+    "price": 899,
+    "rating": 4.7,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Pink", "Red", "Purple"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764152020/AWP%20Shopping-products/p6c2befclvolcr6ljm0p.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764152026/AWP%20Shopping-products/oqa8te3tydz5zxgnebpp.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764152020/AWP%20Shopping-products/ci0qxweydsrycb8czggg.jpg"
+    ],
+    "createdAt": "2025-11-26T10:13:47.497Z",
+    "updatedAt": "2025-11-26T10:13:47.497Z",
+    "type": "lehenga",
+    "reviewCount": 149,
+    "originalPrice": 1109
+  },
+  {
+    "id": "prod_1764152180797_h2qxmkk04",
+    "title": "Purple Lehenga",
+    "description": "A premium purple lehenga with a modern yet traditional design. Stylish drape, quality workmanship, and perfect for grand celebrations.",
+    "price": 899,
+    "rating": 4.8,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Pink", "Red", "Purple"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764152176/AWP%20Shopping-products/tiaxlldhirmjkihdjofx.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764152180/AWP%20Shopping-products/celnerqimrsmnkdcxqam.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764152175/AWP%20Shopping-products/y0lgjuxepnjzdbvrvds5.jpg"
+    ],
+    "createdAt": "2025-11-26T10:16:20.797Z",
+    "updatedAt": "2025-11-26T10:16:20.797Z",
+    "type": "lehenga",
+    "reviewCount": 67,
+    "originalPrice": 1159
+  },
+  {
+    "id": "prod_1764152253168_w1ybwtnr0",
+    "title": "Red Lehenga",
+    "description": "A classic red lehenga with a bold and beautiful finish — a perfect match for weddings and festive occasions. Eye-catching craftsmanship adds charm to every moment.",
+    "price": 899,
+    "rating": 4.9,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Pink", "Red", "Purple"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764152248/AWP%20Shopping-products/ltfycyafsw9y5h4cvvu7.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764152243/AWP%20Shopping-products/azvtwtkm9secuovdgj79.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764152249/AWP%20Shopping-products/przlmjpvf4e1jx2man4t.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764152243/AWP%20Shopping-products/clar2d7lgddr6ufrb1yj.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764152247/AWP%20Shopping-products/nolqec3x0kqiq6krsqe8.jpg"
+    ],
+    "createdAt": "2025-11-26T10:17:33.168Z",
+    "updatedAt": "2025-11-26T10:17:33.168Z",
+    "type": "lehenga",
+    "reviewCount": 114,
+    "originalPrice": 1169
+  },
+  {
+    "id": "prod_1764153076568_ztujaauop",
+    "title": "Dark Blue Frock with White Hearts",
+    "description": "Adorable dark blue frock with cute white heart prints. Soft, durable fabric that keeps comfort and style hand-in-hand for everyday wear.",
+    "price": 599,
+    "rating": 4.4,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Dark Blue", "Red", "Pink"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764153075/AWP%20Shopping-products/yyztfzpo0engnhh0wrce.jpg"
+    ],
+    "createdAt": "2025-11-26T10:31:16.568Z",
+    "updatedAt": "2025-11-26T11:44:11.475Z",
+    "type": "frock",
+    "reviewCount": 75,
+    "originalPrice": 819
+  },
+  {
+    "id": "prod_1764153471502_325077opn",
+    "title": "Green Frock",
+    "description": "A dreamy green frock that blends classic charm with playful style. Perfect for outings, parties, and everyday cuteness!",
+    "price": 599,
+    "rating": 4.7,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Pink", "Orange", "Yellow", "Green", "Violet"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764153470/AWP%20Shopping-products/kb1mn1l6mo94z3j8rqxh.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764153470/AWP%20Shopping-products/wxwwyrybknh7xrhrdwwd.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764153470/AWP%20Shopping-products/wnajtooqae8gmlgor7lx.jpg"
+    ],
+    "createdAt": "2025-11-26T10:37:51.502Z",
+    "updatedAt": "2025-11-26T10:37:51.502Z",
+    "type": "frock",
+    "reviewCount": 113,
+    "originalPrice": 769
+  },
+  {
+    "id": "prod_1764153528878_lluyb4xqr",
+    "title": "Orange Frock",
+    "description": "A bright and cheerful orange frock that brings warmth to any look. Designed for comfort and made to shine in every moment.",
+    "price": 599,
+    "rating": 4.8,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Pink", "Orange", "Yellow", "Violet"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764153524/AWP%20Shopping-products/w2xyhy4dtzkit1dd45ct.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764153527/AWP%20Shopping-products/cpjpxjkn6a4kiymjbotr.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764153525/AWP%20Shopping-products/smqwkwtfpdhaspzluu8z.jpg"
+    ],
+    "createdAt": "2025-11-26T10:38:48.878Z",
+    "updatedAt": "2025-11-26T10:38:48.878Z",
+    "type": "frock",
+    "reviewCount": 67,
+    "originalPrice": 799
+  },
+
+  {
+    "id": "prod_1764153612743_a24fvvc23",
+    "title": "Pink Frock with White Hearts",
+    "description": "A sweet and stylish pink frock decorated with adorable white heart prints. Designed with soft, breathable fabric to provide all-day comfort and charm for fun outings and celebrations.",
+    "price": 599,
+    "rating": 4.9,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Red", "Pink", "Dark Blue"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764153611/AWP%20Shopping-products/hs7kbdjva6y4dkepcrd5.jpg"
+    ],
+    "createdAt": "2025-11-26T10:40:12.743Z",
+    "updatedAt": "2025-11-26T10:40:12.743Z",
+    "type": "frock",
+    "reviewCount": 127,
+    "originalPrice": 779
+  },
+  {
+    "id": "prod_1764153672853_jzadz8gor",
+    "title": "Red Frock with White Hearts",
+    "description": "A bold red frock featuring cute white heart prints — perfect for little fashion lovers! Soft fabric, playful style, and ideal for parties or casual outings.",
+    "price": 599,
+    "rating": 4.5,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Red", "Pink", "Dark Blue"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764153669/AWP%20Shopping-products/pzgsnbeemndbftdofbj9.jpg"
+    ],
+    "createdAt": "2025-11-26T10:41:12.853Z",
+    "updatedAt": "2025-11-26T10:41:12.853Z",
+    "type": "frock",
+    "reviewCount": 134,
+    "originalPrice": 749
+  },
+  {
+    "id": "prod_1764153765927_a8nz82ch2",
+    "title": "Pink Frock",
+    "description": "A beautiful pink frock with a stylish modern design. Lightweight and comfortable — a perfect pick for birthdays, gatherings, and everyday fashion.",
+    "price": 599,
+    "rating": 4.8,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Green", "Violet", "Pink", "Yellow", "Orange"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764153764/AWP%20Shopping-products/gxnkqxo9uv9bblizvil2.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764153760/AWP%20Shopping-products/molw3fyajsouzj3lwdhg.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764153760/AWP%20Shopping-products/lydyuluwwxsjqitry2uw.jpg"
+    ],
+    "createdAt": "2025-11-26T10:42:45.927Z",
+    "updatedAt": "2025-11-26T10:42:45.927Z",
+    "type": "frock",
+    "reviewCount": 149,
+    "originalPrice": 769
+  },
+  {
+    "id": "prod_1764153848395_d4afa3ngn",
+    "title": "Violet Frock",
+    "description": "A cute and vibrant violet frock designed with soft fabric for a comfortable fit. Elegant, bright, and perfect for fun celebrations and photo moments.",
+    "price": 599,
+    "rating": 4.8,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Green", "Yellow", "Violet", "Orange"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764153845/AWP%20Shopping-products/esq9zqhzntjpgarr5lzt.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764153847/AWP%20Shopping-products/zqhdoy7iuiol8hbeg7b6.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764153844/AWP%20Shopping-products/uykmicxtvpxn1fxiotrg.jpg"
+    ],
+    "createdAt": "2025-11-26T10:44:08.395Z",
+    "updatedAt": "2025-11-26T10:44:08.395Z",
+    "type": "frock",
+    "reviewCount": 60,
+    "originalPrice": 799
+  },
+  {
+    "id": "prod_1764153935610_4jy1aahkn",
+    "title": "Yellow Frock",
+    "description": "A cheerful yellow frock filled with vibrant personality. Soft, flowy, and adorable — ideal for outdoor picnics, parties, and weekend fun!",
+    "price": 599,
+    "rating": 4.8,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Pink", "Violet", "Orange", "Yellow"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764153934/AWP%20Shopping-products/il3yo9ozsbqiebincrj4.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764153934/AWP%20Shopping-products/q4gs6rcanwqikkcifbsn.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764153934/AWP%20Shopping-products/lffwyx3dknw0pjqb6r3a.jpg"
+    ],
+    "createdAt": "2025-11-26T10:45:35.610Z",
+    "updatedAt": "2025-11-26T10:45:35.610Z",
+    "type": "frock",
+    "reviewCount": 121,
+    "originalPrice": 829
+  },
+  {
+    "id": "prod_1764154512178_pcjy9hu1u",
+    "title": "Light Pink Frock",
+    "description": "A delicate light pink frock with a soft and elegant look. Designed for special events and styled with premium comfort in mind.",
+    "price": 899,
+    "rating": 4.6,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Pink"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764154511/AWP%20Shopping-products/l1exnumdjbszohhf0csp.jpg"
+    ],
+    "createdAt": "2025-11-26T10:55:12.178Z",
+    "updatedAt": "2025-11-26T10:55:12.178Z",
+    "type": "frock",
+    "reviewCount": 49,
+    "originalPrice": 1129
+  },
+  {
+    "id": "prod_1764154692171_pjmnoa8b3",
+    "title": "Dark Pink Frock",
+    "description": "A bold and beautiful dark pink frock with stylish detailing. Makes every girl feel confident and special — a wardrobe favorite!",
+    "price": 999,
+    "rating": 4.9,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Dark Pink"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764154691/AWP%20Shopping-products/ists1fkguvogtzreacpw.jpg"
+    ],
+    "createdAt": "2025-11-26T10:58:12.171Z",
+    "updatedAt": "2025-11-26T10:58:12.171Z",
+    "type": "frock",
+    "reviewCount": 129,
+    "originalPrice": 1209
+  },
+  {
+    "id": "prod_1764154770105_892wwbr8q",
+    "title": "Dark Blue Frock",
+    "description": "A classy dark blue frock with a sleek and simple style. Great for everyday outings and celebrations while keeping comfort first.",
+    "price": 899,
+    "rating": 4.5,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Dark Blue"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764154769/AWP%20Shopping-products/cwnwv6lspb6zza7ervae.jpg"
+    ],
+    "createdAt": "2025-11-26T10:59:30.105Z",
+    "updatedAt": "2025-11-26T10:59:30.105Z",
+    "type": "frock",
+    "reviewCount": 73,
+    "originalPrice": 1189
+  },
+  {
+    "id": "prod_1764154846692_zpgn340r7",
+    "title": "Light Blue Frock",
+    "description": "A fresh and delightful light blue frock with a soft, airy fit. Perfect for playful outings and stylish everyday comfort.",
+    "price": 999,
+    "rating": 4.8,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Light Blue"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764154845/AWP%20Shopping-products/oi8bibl4mc6rvjdhjj76.jpg"
+    ],
+    "createdAt": "2025-11-26T11:00:46.692Z",
+    "updatedAt": "2025-11-26T11:00:46.692Z",
+    "type": "frock",
+    "reviewCount": 72,
+    "originalPrice": 1299
+  },
+  {
+    "id": "prod_1764154894650_ib6de40m2",
+    "title": "Dark Blue Frock",
+    "description": "A fashionable dark blue frock designed with a clean, modern look. Durable and comfortable fabric makes it ideal for routine wear and special outings.",
+    "price": 699,
+    "rating": 4.2,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Dark Blue"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764154893/AWP%20Shopping-products/cr3ld9kjtsqz9q3azk80.jpg"
+    ],
+    "createdAt": "2025-11-26T11:01:34.649Z",
+    "updatedAt": "2025-11-26T11:01:34.649Z",
+    "type": "frock",
+    "reviewCount": 74,
+    "originalPrice": 979
+  },
+  {
+    "id": "prod_1764154948339_zytbrmjqx",
+    "title": "Red Blue Printed Frock",
+    "description": "A fun and vibrant red-blue printed frock designed for playful style and comfort. Lightweight fabric makes it ideal for daily outings and weekend fun.",
+    "price": 499,
+    "rating": 4.6,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Red", "Blue"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764154947/AWP%20Shopping-products/ana0dk6oxmxf5jxul0de.jpg"
+    ],
+    "createdAt": "2025-11-26T11:02:28.339Z",
+    "updatedAt": "2025-11-26T11:02:28.339Z",
+    "type": "frock",
+    "reviewCount": 48,
+    "originalPrice": 689
+  },
+  {
+    "id": "prod_1764154994910_1xyr5osi0",
+    "title": "Dark Pink Frock",
+    "description": "A stylish dark pink frock with a premium look and soft-touch fabric. Perfect for special gatherings, family events, and fashionable outings.",
+    "price": 899,
+    "rating": 4.5,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Pink"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764154993/AWP%20Shopping-products/s6gwbyxskcfdg6fub5fl.jpg"
+    ],
+    "createdAt": "2025-11-26T11:03:14.910Z",
+    "updatedAt": "2025-11-26T11:03:14.910Z",
+    "type": "frock",
+    "reviewCount": 67,
+    "originalPrice": 1269
+  },
+  {
+    "id": "prod_1764155090174_19up7xrnb",
+    "title": "Light Hot Pink Frock",
+    "description": "Bright and trendy hot-pink frock with a lightweight, airy feel. Eye-catching style paired with comfortable wearability for all-day joy.",
+    "price": 799,
+    "rating": 4.3,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Hot Pink"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764155088/AWP%20Shopping-products/qercedlfeittvvkmu8cj.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764156115/AWP%20Shopping-products/ftumswtfwa52jfkyxcxq.jpg"
+    ],
+    "createdAt": "2025-11-26T11:04:50.174Z",
+    "updatedAt": "2025-11-26T11:21:55.860Z",
+    "type": "frock",
+    "reviewCount": 93,
+    "originalPrice": 1089
+  },
+  {
+    "id": "prod_1764155137844_g6gcolt9c",
+    "title": "Red Kurti",
+    "description": "A vibrant red kurti designed for everyday comfort with a stylish ethnic look. Perfect for workwear, festive casuals, and elegant daily fashion.",
+    "price": 499,
+    "rating": 4.2,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Red"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764155136/AWP%20Shopping-products/sh6axetfj69cevew5kqh.jpg"
+    ],
+    "createdAt": "2025-11-26T11:05:37.844Z",
+    "updatedAt": "2025-11-26T11:05:37.844Z",
+    "type": "kurti",
+    "reviewCount": 107,
+    "originalPrice": 619
+  },
+  {
+    "id": "prod_1764155226351_ekps0k4jn",
+    "title": "Dark Purple Frock",
+    "description": "A rich dark-purple frock with elegant styling and a beautiful silhouette. A perfect pick for festive gatherings and fashionable occasions.",
+    "price": 999,
+    "rating": 4.7,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Dark Purple"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764155225/AWP%20Shopping-products/gjd3fv70lxiw6hrapwnt.jpg",
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764157093/AWP%20Shopping-products/qo02ybcumwrjlpdcdy2k.jpg"
+    ],
+    "createdAt": "2025-11-26T11:07:06.350Z",
+    "updatedAt": "2025-11-26T11:38:14.996Z",
+    "type": "frock",
+    "reviewCount": 32,
+    "originalPrice": 1309
+  },
+  {
+    "id": "prod_1764155288232_0t3ac4okm",
+    "title": "Purple Frock",
+    "description": "A lovely purple frock that offers a perfect balance of comfort and style. Great for playful days, school events, and family get-togethers.",
+    "price": 499,
+    "rating": 4.2,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Purple"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764155287/AWP%20Shopping-products/snyavmki0viiw49zbwyy.jpg"
+    ],
+    "createdAt": "2025-11-26T11:08:08.232Z",
+    "updatedAt": "2025-11-26T11:08:08.232Z",
+    "type": "frock",
+    "reviewCount": 60,
+    "originalPrice": 619
+  },
+  {
+    "id": "prod_1764155352411_ejzyjqr6y",
+    "title": "Orange Frock",
+    "description": "A stunning orange frock crafted for a bold and confident look. Premium-quality finish and ideal for parties, celebrations, and standout fashion moments.",
+    "price": 1199,
+    "rating": 4.5,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Orange"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764155338/AWP%20Shopping-products/c5yunz1frtzkzuamzk3g.jpg"
+    ],
+    "createdAt": "2025-11-26T11:09:12.411Z",
+    "updatedAt": "2025-11-26T11:09:12.411Z",
+    "type": "frock",
+    "reviewCount": 52,
+    "originalPrice": 1779
+  },
+  {
+    "id": "prod_1764155402406_p5rcc5h5j",
+    "title": "Red Frock",
+    "description": "A classic red frock with a charming, evergreen style. Soft and easy to wear — perfect for all kinds of joyful outings.",
+    "price": 499,
+    "rating": 4.2,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Red"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764155401/AWP%20Shopping-products/zkz6o4lwkorir29yh7ms.jpg"
+    ],
+    "createdAt": "2025-11-26T11:10:02.406Z",
+    "updatedAt": "2025-11-26T11:10:02.406Z",
+    "type": "frock",
+    "reviewCount": 146,
+    "originalPrice": 659
+  },
+  {
+    "id": "prod_1764155525841_978aon9pq",
+    "title": "Red Kurti",
+    "description": "A stylish red kurti with a graceful ethnic vibe. Perfect for college wear, daily style, and comfortable modern elegance.",
+    "price": 499,
+    "rating": 4,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Red"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764155524/AWP%20Shopping-products/wwv8xexkthm2l09fduaq.jpg"
+    ],
+    "createdAt": "2025-11-26T11:12:05.841Z",
+    "updatedAt": "2025-11-26T11:12:05.841Z",
+    "type": "kurti",
+    "reviewCount": 84,
+    "originalPrice": 679
+  },
+  {
+    "id": "prod_1764155573611_953plk1dq",
+    "title": "Orange Kurti",
+    "description": "A bright and refreshing orange kurti crafted for comfort and simplicity. Great for daily wear, office styling, and casual ethnic fashion.",
+    "price": 500,
+    "rating": 4.3,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Orange"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764155572/AWP%20Shopping-products/xol5aovmgzwswlad5p9a.jpg"
+    ],
+    "createdAt": "2025-11-26T11:12:53.611Z",
+    "updatedAt": "2025-11-26T11:12:53.611Z",
+    "type": "kurti",
+    "reviewCount": 105,
+    "originalPrice": 679
+  },
+  {
+    "id": "prod_1764155602195_mxwidg3ra",
+    "title": "Yellow Kurti",
+    "description": "A bright and refreshing yellow kurti crafted with soft, breathable fabric. Perfect for daily wear and comfortable traditional styling.",
+    "price": 500,
+    "rating": 4.4,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Yellow"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764155601/AWP%20Shopping-products/owuiybriqscczeogcdn1.jpg"
+    ],
+    "createdAt": "2025-11-26T11:13:22.195Z",
+    "updatedAt": "2025-11-26T11:13:22.195Z",
+    "type": "kurti",
+    "reviewCount": 135,
+    "originalPrice": 719
+  },
+  {
+    "id": "prod_1764155654403_407066yb4",
+    "title": "Light Blue Frock",
+    "description": "A soft and adorable light-blue frock that offers a refreshing look with everyday comfort. Ideal for playtime, casual events, and weekend outings.",
+    "price": 499,
+    "rating": 4.7,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Light Blue"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764155653/AWP%20Shopping-products/cwvfmusjau7tbtrfhptt.jpg"
+    ],
+    "createdAt": "2025-11-26T11:14:14.403Z",
+    "updatedAt": "2025-11-26T11:14:14.403Z",
+    "type": "frock",
+    "reviewCount": 122,
+    "originalPrice": 679
+  },
+  {
+    "id": "prod_1764155679348_byh6to83j",
+    "title": "White Kurti",
+    "description": "An elegant white kurti that gives a fresh and graceful look. Versatile and stylish for daily wear, college, or office outfits.",
+    "price": 499,
+    "rating": 4.8,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["White"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764155678/AWP%20Shopping-products/cdu3bxxcbspdeq0l9u5h.jpg"
+    ],
+    "createdAt": "2025-11-26T11:14:39.348Z",
+    "updatedAt": "2025-11-26T11:14:39.348Z",
+    "type": "kurti",
+    "reviewCount": 104,
+    "originalPrice": 669
+  },
+  {
+    "id": "prod_1764155712612_y6cre147m",
+    "title": "Light Pink Frock",
+    "description": "A charming light-pink frock with a cute and stylish look. Comfortable fabric for fun celebrations and everyday wear.",
+    "price": 499,
+    "rating": 4.9,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Light Pink"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764155711/AWP%20Shopping-products/p3e2wf8kgezejvyegthb.jpg"
+    ],
+    "createdAt": "2025-11-26T11:15:12.612Z",
+    "updatedAt": "2025-11-26T11:15:12.612Z",
+    "type": "frock",
+    "reviewCount": 76,
+    "originalPrice": 659
+  },
+  {
+    "id": "prod_1764155759505_frdibd7k0",
+    "title": "Light Green Frock",
+    "description": "A cute and fresh-looking light-green frock crafted for all-day comfort. Perfect for playful activities, family outings, and weekend fun.",
+    "price": 499,
+    "rating": 4.7,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Light Green"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764155758/AWP%20Shopping-products/te0vag1hc0rzwqfgnxj6.jpg"
+    ],
+    "createdAt": "2025-11-26T11:15:59.505Z",
+    "updatedAt": "2025-11-26T11:15:59.505Z",
+    "type": "frock",
+    "reviewCount": 150,
+    "originalPrice": 669
+  },
+  {
+    "id": "prod_1764155830390_f2mmr99j3",
+    "title": "Light Red Kurti",
+    "description": "A stylish light-red kurti that blends ethnic elegance with casual comfort. Ideal for college wear, office looks, and everyday outings.",
+    "price": 499,
+    "rating": 4.5,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Light Red"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764155829/AWP%20Shopping-products/lruzr1uzumy39q822tib.jpg"
+    ],
+    "createdAt": "2025-11-26T11:17:10.390Z",
+    "updatedAt": "2025-11-26T11:17:10.390Z",
+    "type": "kurti",
+    "reviewCount": 24,
+    "originalPrice": 609
+  },
+  {
+    "id": "prod_1764156198145_vqwyxr7y8",
+    "title": "Blue Frock with Pink Flowers",
+    "description": "A delightful blue frock adorned with pretty pink floral prints — stylish, breathable, and perfect for cute everyday fashion.",
+    "price": 498.97,
+    "rating": 4.6,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Blue", "Pink"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764156196/AWP%20Shopping-products/u8rhufmtrh8fusb8b7qo.jpg"
+    ],
+    "createdAt": "2025-11-26T11:23:18.145Z",
+    "updatedAt": "2025-11-26T11:23:18.145Z",
+    "type": "frock",
+    "reviewCount": 68,
+    "originalPrice": 729
+  },
+  {
+    "id": "prod_1764157170575_7tzjm8h6f",
+    "title": "Shining Mehroon Frock",
+    "description": "A premium shining mehroon frock with a rich festive look. Perfect for weddings, celebrations, and glamorous party outfits.",
+    "price": 1199,
+    "rating": 4.9,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Mehroon"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764157169/AWP%20Shopping-products/wdza9sagh9yw8yxefrja.jpg"
+    ],
+    "createdAt": "2025-11-26T11:39:30.575Z",
+    "updatedAt": "2025-11-26T11:39:30.575Z",
+    "type": "frock",
+    "reviewCount": 124,
+    "originalPrice": 1519
+  },
+  {
+    "id": "prod_1764157198213_89q9l1w4q",
+    "title": "Black Frock",
+    "description": "A classic black frock that brings effortless charm to everyday wear. A must-have piece for versatile styling and comfort.",
+    "price": 499,
+    "rating": 4.3,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Black"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764157196/AWP%20Shopping-products/naqzieocuurezq59fskb.jpg"
+    ],
+    "createdAt": "2025-11-26T11:39:58.213Z",
+    "updatedAt": "2025-11-26T11:39:58.213Z",
+    "type": "frock",
+    "reviewCount": 29,
+    "originalPrice": 659
+  },
+  {
+    "id": "prod_1764157234488_k5i4e28tq",
+    "title": "Dark Green Frock",
+    "description": "A bold dark-green frock with timeless elegance and comfortable fit. A perfect pick for both celebrations and daily fashion.",
+    "price": 499,
+    "rating": 4.7,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Dark Green"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764157233/AWP%20Shopping-products/uasdo9udmvrlwkhkcwoz.jpg"
+    ],
+    "createdAt": "2025-11-26T11:40:34.488Z",
+    "updatedAt": "2025-11-26T11:40:34.488Z",
+    "type": "frock",
+    "reviewCount": 51,
+    "originalPrice": 669
+  },
+  {
+    "id": "prod_1764157312565_ah35ssqat",
+    "title": "White Frock",
+    "description": "A classic white frock with a fresh and elegant look. Soft fabric ensures comfort, making it a lovely choice for photoshoots, outings, and special moments.",
+    "price": 499,
+    "rating": 4.3,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["White"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764157311/AWP%20Shopping-products/kyapv1fpb4xwqgizmfjk.jpg"
+    ],
+    "createdAt": "2025-11-26T11:41:52.565Z",
+    "updatedAt": "2025-11-26T11:41:52.565Z",
+    "type": "frock",
+    "reviewCount": 20,
+    "originalPrice": 679
+  },
+  {
+    "id": "prod_1764157356929_jr4vcdprk",
+    "title": "Shining Pink Frock",
+    "description": "A stunning shining pink frock with a sparkling festive appeal — perfect for birthdays, weddings, and unforgettable celebrations. Premium finish for a standout look.",
+    "price": 1199,
+    "rating": 4.7,
+    "sizes": ["S", "M", "L", "XL", "XXL", "3XL", "4XL", "5XL"],
+    "colours": ["Shining Pink"],
+    "images": [
+      "https://res.cloudinary.com/douvhybil/image/upload/v1764157356/AWP%20Shopping-products/m20zx3tw4hvonextsqau.jpg"
+    ],
+    "createdAt": "2025-11-26T11:42:36.929Z",
+    "updatedAt": "2025-11-26T11:42:36.929Z",
+    "type": "frock",
+    "reviewCount": 53,
+    "originalPrice": 1639
+  }
+]
