@@ -76,8 +76,17 @@ export default function Footer() {
         {/* Divider */}
         <div className="border-t border-gray-800 py-8 ">
           <p className="text-center text-gray-400 text-sm">
-            © 2025 AWP Shopping. All rights reserved.
-          </p>
+  © 2025 AWP Shopping. All rights reserved. Made By{" "}
+  <a
+    href="https://mehrajdevportfolio.online"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-pink-400 hover:text-pink-500 transition-colors underline"
+  >
+    Mohammed Mehraj
+  </a>.
+</p>
+
         </div>
       </div>
     </footer>
